@@ -137,11 +137,11 @@ $(document).ready(function () {
         var col4 = $(this).find('td:eq(4)').text();
         var col5 = $(this).find('td:eq(5)').text();
 
-        $('#exampleFormControlInput1').val(col0);
-        $('#exampleFormControlInput2').val(col1);
-        $('#exampleFormControlInput3').val(col2);
-        $('#exampleFormControlInput4').val(col3);
-        $('#exampleFormControlInput5').val(col4);
+       $('#exampleFormControlInput1').val(col0);
+        $('#exampleFormControlInput2').val(col2);
+        $('#exampleFormControlInput3').val(col1);
+        $('#exampleFormControlInput4').val(col4);
+        $('#exampleFormControlInput5').val(col3);
         $('#exampleFormControlInput6').val(col5);
 
     })
