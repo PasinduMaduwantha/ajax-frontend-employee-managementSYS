@@ -1,4 +1,4 @@
-# ajx-frontend-employee-managementSYS
+# ajax-frontend-employee-managementSYS
 
 This is a simple front end for employee-managemen-springboot-api.
 Here I used simple form with HTML, CSS with Bootstrap and javascript.
